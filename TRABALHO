@@ -1,0 +1,17 @@
+        CONCEITOS
+
+a) Nuvem: A definição de nuvem pode parecer obscura, mas, basicamente, é um termo utilizado para descrever uma rede global de servidores, cada um com uma função única. A nuvem não é uma entidade física, mas uma vasta rede de servidores remotos ao redor do globo que são conectados e operam como um único ecossistema. Esses servidores são responsáveis por armazenar e gerenciar dados, executar aplicativos e fornecer conteúdos ou serviços, como transmissão de vídeos, webmail, software de produtividade ou mídias sociais. Em vez de acessar arquivos e dados do local ou de um PC, você pode acessá-los online, de qualquer dispositivo com acesso à Internet. As informações estarão disponíveis em praticamente qualquer lugar, a qualquer hora. Fonte  azure mricrosoft.
+
+b) Banco de dados:Um banco de dados é uma coleção organizada de informações - ou dados - estruturadas, normalmente armazenadas eletronicamente em um sistema de computador. Um banco de dados é geralmente controlado por um sistema de gerenciamento de banco de dados (DBMS). Juntos, os dados e o DBMS, juntamente com os aplicativos associados a eles, são chamados de sistema de banco de dados, geralmente abreviados para apenas banco de dados.
+Os dados nos tipos mais comuns de bancos de dados em operação atualmente são modelados em linhas e colunas em uma série de tabelas para tornar o processamento e a consulta de dados eficientes. Os dados podem ser facilmente acessados, gerenciados, modificados, atualizados, controlados e organizados. A maioria dos bancos de dados usa a linguagem de consulta estruturada (SQL) para escrever e consultar dados. fonte site OCI.
+
+c) Variável: Variável é o nome utilizado para definir um ou mais valores que são manipulados pelos programas durante a sua operação. O nome “variável” é utilizado por ser um tipo de conteúdo que pode apresentar diferentes valores enquanto o sistema está em execução. Tudo dependerá do comando do usuário e o tipo de operação que é realizado. Fonte site gaea
+
+d) Algoritmo: Algoritmo é o termo utilizado na área de TI para definir um conjunto básico de regras, variáveis, instruções e condicionantes que definem o funcionamento de um software. Eles funcionam como uma receita de bolo, guiando o computador de acordo com as interações do usuário. Nesse sentido, a estrutura de um algoritmo é moldada da seguinte maneira:
+instruções de entrada, que definem como cada variável deve ser criada de acordo com a ação do usuário;
+instruções operacionais, que definem que ações devem ser feitas de acordo com as ações do usuário;
+instruções de saída, que definem o que deve ser exibido na tela do usuário de acordo com as suas ações. Fonte site gaea
+
+e) Um servidor é um computador equipado com um ou mais processadores, bancos de memória, portas de comunicação, softwares e, ocasionalmente, algum sistema para armazenamento de dados, como hard disks internos ou memórias SSD.
+O termo servidor também define um recurso dentro de um sistema computacional maior, capaz de processar aplicações, prestar serviços e armazenar dados. Esses sistemas podem ser físicos ou virtuais, estarem instalados local ou remotamente. Normalmente, são escaláveis e possuem alto poder de processamento.
+Capazes de executar um conjunto específico de programas ou protocolos para fornecer serviços para outras máquinas ou clientes, servidores são equipamentos dedicados a executar aplicações e serviços dentro de uma rede LAN ou WAN. Fonte site controle net
